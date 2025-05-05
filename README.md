@@ -1,4 +1,12 @@
-## Hi there 👋
+### 👋 Hi there, I'm Oluwatomilola Ayeni!
+
+🎓 Educational Management and Mathematics student at Obafemi Awolowo University  
+💻 Frontend Developer – HTML | CSS | JavaScript | React  
+🌍 Exploring Web3 (Solidity), AI, and Machine Learning  
+🌱 Currently learning: Smart Contracts & dApp development  
+📫 How to reach me: tomilolaayen97@gmail.com  
+🚀 Always open to internship opportunities and collaborations!
+
 
 <!--
 **Oluwatomilola/Oluwatomilola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
