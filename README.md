@@ -1,7 +1,4 @@
-# 👋 Hi, I'm Oluwatomilola Ayeni
-
-🎓 Final-year student at Obafemi Awolowo University  
-📘 Studying Educational Management & Mathematics (Graduating July 2025)  
+# 👋 Hi, I'm Oluwatomilola Ayeni 
 💻 Frontend Developer | Aspiring Web3 + AI Engineer  
 📍 Based in Nigeria | Open to remote internship opportunities  
 
