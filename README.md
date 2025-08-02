@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 
-- 🔭 Currently working on: JavaScript projects and learning React  
+- 🔭 Currently working on: Reacts projects
 - 🌱 Exploring Web3, Solidity, and AI tools  
 - 👯 I’m looking to collaborate on frontend or Web3-related projects  
 - 💬 Ask me about HTML, CSS, JS, or React  
