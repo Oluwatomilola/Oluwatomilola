@@ -39,4 +39,4 @@ VS Code
 
 - GitHub: [@Oluwatomilola](https://github.com/Oluwatomilola)  
 - LinkedIn: [@Oluwatomilola Ayeni](www.linkedin.com/in/oluwatomilola-ayeni-553368127)
-- Portfolio: Coming soon!
+- Portfolio: 
