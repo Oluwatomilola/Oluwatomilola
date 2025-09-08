@@ -20,6 +20,7 @@
 HTML
 CSS3
 JavaScript
+TypeScript
 React
 Python
 TailwindCSS
