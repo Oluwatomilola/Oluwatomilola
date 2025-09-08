@@ -17,14 +17,16 @@
 
 ### 🛠 Tech Stack
 
-HTML5
+HTML
 CSS3
 JavaScript
 React
-![TailwindCSS
+Python
+TailwindCSS
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 VS Code
+Solidity
 
 ---
 
