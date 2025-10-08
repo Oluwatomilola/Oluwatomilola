@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oluwatomilola Ayeni | My friends call me Hadassah 
+# 👋 Hi, I'm Oluwatomilola Ayeni | You can call me Hadassah 
 💻 Frontend Developer | Aspiring Web3 + AI Engineer  
 📍 Based in Nigeria | Open to remote internship opportunities  
 
