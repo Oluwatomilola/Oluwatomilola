@@ -1,8 +1,100 @@
-# 👋 Hi, I'm Oluwatomilola Ayeni | You can call me Hadassah 
-💻 Frontend Developer | Aspiring Web3 + AI Engineer  
-📍 Based in Nigeria | Open to remote internship opportunities  
 
----
+# Hi, I’m Oluwatomilola 👋
+
+I’m a frontend developer focused on building clean, usable, and production-ready web applications.
+I recently graduated and I’m currently in a dedicated builder phase — strengthening my frontend stack, shipping real projects, and preparing for internships and entry-level roles.
+
+I care deeply about clarity, consistency, and finishing what I start.
+
+🚀 What I’m Currently Working On
+
+Building portfolio-grade frontend projects with React and TypeScript
+
+Strengthening core JavaScript and frontend fundamentals
+
+Integrating Web3 concepts (smart contracts, wallets, on-chain data) into practical apps
+
+Learning Rust gradually for long-term systems thinking
+
+Applying for frontend internships and junior roles
+
+🧠 Tech Stack & Tools
+
+Frontend
+
+React
+
+TypeScript
+
+JavaScript (ES6+)
+
+HTML, CSS, Tailwind CSS
+
+Web3
+
+Solidity
+
+Ethers / Wagmi / Viem
+
+Smart contract basics & testnets
+
+Tools & Workflow
+
+Git & GitHub
+
+Vite
+
+Foundry (for smart contracts)
+
+REST APIs
+
+Basic testing & debugging
+
+🛠 How I Work
+
+I prioritize real output over busy work
+
+Every learning session produces an artifact (code, commit, feature, or documentation)
+
+I build projects incrementally, refactor intentionally, and document decisions
+
+I value readable code, simple architecture, and sustainable pace
+
+📌 Featured Projects
+
+You’ll find here:
+
+Frontend applications focused on real user problems
+
+Projects demonstrating state management, async data handling, and clean UI
+
+Web3-integrated apps that connect frontend logic with smart contracts
+
+Each serious project includes:
+
+A clear README
+
+Thoughtful trade-offs
+
+Evidence of iteration
+
+🌱 What I’m Learning Next
+
+Advanced React patterns
+
+Performance and accessibility
+
+Better frontend architecture
+
+Rust fundamentals (slow and steady)
+
+📫 Let’s Connect
+
+GitHub: You’re already here 🙂
+
+Open to: internships, junior roles, collaborations, and learning opportunities
+
+I’m focused on becoming a better engineer through consistent practice, real projects, and thoughtful growth.
 
 ### 💡 About Me
 
