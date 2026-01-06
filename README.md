@@ -6,7 +6,10 @@ I recently graduated and I’m currently in a dedicated builder phase — streng
 
 I care deeply about clarity, consistency, and finishing what I start.
 
-🚀 What I’m Currently Working On
+---
+
+
+## 🚀 What I’m Currently Working On
 
 Building portfolio-grade frontend projects with React and TypeScript
 
@@ -18,7 +21,9 @@ Learning Rust gradually for long-term systems thinking
 
 Applying for frontend internships and junior roles
 
-🧠 Tech Stack & Tools
+---
+
+## 🧠 Tech Stack & Tools
 
 Frontend
 
@@ -30,7 +35,7 @@ JavaScript (ES6+)
 
 HTML, CSS, Tailwind CSS
 
-Web3
+### Web3
 
 Solidity
 
@@ -44,13 +49,15 @@ Git & GitHub
 
 Vite
 
-Foundry (for smart contracts)
+Foundry and Hardhats (for smart contracts)
 
 REST APIs
 
 Basic testing & debugging
 
-🛠 How I Work
+---
+
+## 🛠 How I Work
 
 I prioritize real output over busy work
 
@@ -60,7 +67,9 @@ I build projects incrementally, refactor intentionally, and document decisions
 
 I value readable code, simple architecture, and sustainable pace
 
-📌 Featured Projects
+---
+
+## 📌 Featured Projects
 
 You’ll find here:
 
@@ -78,7 +87,9 @@ Thoughtful trade-offs
 
 Evidence of iteration
 
-🌱 What I’m Learning Next
+---
+
+## 🌱 What I’m Learning Next
 
 Advanced React patterns
 
@@ -88,6 +99,8 @@ Better frontend architecture
 
 Rust fundamentals (slow and steady)
 
+---
+
 📫 Let’s Connect
 
 GitHub: You’re already here 🙂
@@ -95,6 +108,7 @@ GitHub: You’re already here 🙂
 Open to: internships, junior roles, collaborations, and learning opportunities
 
 I’m focused on becoming a better engineer through consistent practice, real projects, and thoughtful growth.
+
 
 ### 💡 About Me
 
