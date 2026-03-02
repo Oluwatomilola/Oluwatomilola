@@ -2,7 +2,7 @@
 # Hi, I’m Oluwatomilola 👋
 
 I’m a frontend developer focused on building clean, usable, and production-ready web applications.
-I recently graduated and I’m currently in a dedicated builder phase — strengthening my frontend stack, shipping real projects, and preparing for internships and entry-level roles.
+I'm a recent Educational Management graduate, and I’m currently in a dedicated builder phase — strengthening my frontend stack, shipping real projects, and preparing for internships and entry-level roles.
 
 I care deeply about clarity, consistency, and finishing what I start.
 
