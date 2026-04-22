@@ -1,10 +1,15 @@
+### Hi, I'm Oluwatomilola 👋
 
-# Hi, I’m Oluwatomilola 👋
+Smart Contract Developer focused on building secure, composable, and production-grade on-chain systems.
 
-I’m a frontend developer focused on building clean, usable, and production-ready web applications.
-I'm a recent Educational Management graduate, and I’m currently in a dedicated builder phase — strengthening my frontend stack, shipping real projects, and preparing for internships and entry-level roles.
+I work primarily with Solidity, Foundry, and Hardhat, designing contracts that go beyond isolated logic into full protocol-level architecture — spanning DeFi primitives, financial attestations, and identity-linked systems.
 
-I care deeply about clarity, consistency, and finishing what I start.
+Currently building:
+- Fundslip — a verifiable on-chain financial proof primitive
+- Exploring ZK-based privacy, identity layers (ENS/DID), and DeFi composability
+
+I’m interested in pushing Web3 infrastructure forward — especially at the intersection of finance, ownership, and on-chain trust.
+
 
 ---
 
@@ -18,8 +23,6 @@ Strengthening core JavaScript and frontend fundamentals
 Integrating Web3 concepts (smart contracts, wallets, on-chain data) into practical apps
 
 Learning Rust gradually for long-term systems thinking
-
-Applying for frontend internships and junior roles
 
 ---
 
