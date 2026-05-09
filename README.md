@@ -35,17 +35,15 @@ I'm particularly interested in:
 
 # 🛠 Selected Projects
 
-## Fundslip
-An on-chain financial attestation primitive designed to create verifiable proofs of payment, income, and financial activity.
-
-Focus areas:
-- smart contract architecture
-- attestations
-- identity-linked verification
-- composable financial proofs
+##  Mini EVM Implementation
+Built and studied a simplified EVM implementation to better understand:
+- bytecode execution
+- opcode handling
+- stack mechanics
+- virtual machine architecture
 
 Tech:
-`Solidity` `Foundry` `React` `TypeScript`
+`Rust`
 
 ---
 
@@ -70,15 +68,17 @@ Worked on:
 
 ---
 
-## Mini EVM Implementation
-Built and studied a simplified EVM implementation to better understand:
-- bytecode execution
-- opcode handling
-- stack mechanics
-- virtual machine architecture
+## Fundslip
+An on-chain financial attestation primitive designed to create verifiable proofs of payment, income, and financial activity.
+
+Focus areas:
+- smart contract architecture
+- attestations
+- identity-linked verification
+- composable financial proofs
 
 Tech:
-`Rust`
+`Solidity` `Foundry` `React` `TypeScript`
 
 ---
 
