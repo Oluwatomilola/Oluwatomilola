@@ -1,6 +1,6 @@
 # Hi, I'm Oluwatomilola 👋
 
-Smart Contract & Protocol Engineer focused on building secure, composable, and production-oriented decentralized systems.
+Smart Contract & Aspiring Protocol Engineer focused on building secure, composable, and production-oriented decentralized systems.
 
 My work spans smart contracts, protocol architecture, on-chain financial primitives, developer tooling, and open-source infrastructure across Ethereum and adjacent ecosystems.
 
