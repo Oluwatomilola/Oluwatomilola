@@ -1,173 +1,208 @@
-# Hi, I'm Oluwatomilola 👋
+# Hi there 👋 I'm Oluwatomilola Ayeni
 
-Smart Contract & Aspiring Protocol Engineer focused on building secure, composable, and production-oriented decentralized systems.
+### Software Engineer • Frontend Developer • Open Source Contributor
 
-My work spans smart contracts, protocol architecture, on-chain financial primitives, developer tooling, and open-source infrastructure across Ethereum and adjacent ecosystems.
+I build modern web applications with a focus on performance, usability, and maintainability.
 
-I actively contribute to open-source projects through:
-- protocol tooling contributions
-- documentation improvements
-- frontend integrations
-- developer experience fixes
-- workflow automation
-- ecosystem hackathons and research-driven builds
+My experience spans frontend engineering, backend services, and blockchain development. I enjoy building products, contributing to open source, and solving real engineering problems—from responsive user interfaces to distributed systems and developer tooling.
 
-I'm particularly interested in:
-- Ethereum protocol engineering
-- EVM internals
-- account abstraction
-- on-chain identity & attestations
-- decentralized finance infrastructure
-- zero-knowledge systems
-- verifiable financial coordination
+Recently, I've been contributing to projects across the JavaScript/TypeScript ecosystem while expanding into systems programming with Rust.
 
 ---
 
-# 🚀 Current Focus
+## 🚀 What I'm Working On
 
-- Building production-grade smart contract systems with Solidity + Foundry
-- Studying EVM internals and low-level execution
-- Learning Rust for protocol/client engineering
-- Contributing to open-source Web3 projects
-- Exploring Ethereum core infrastructure and protocol research
-
----
-
-# 🛠 Selected Projects
-
-##  Mini EVM Implementation
-Built and studied a simplified EVM implementation to better understand:
-- bytecode execution
-- opcode handling
-- stack mechanics
-- virtual machine architecture
-
-Tech:
-`Rust`
+- Building modern React & TypeScript applications
+- Designing scalable frontend architectures
+- Exploring Rust for systems programming
+- Building backend services and APIs
+- Contributing to open-source software
+- Learning distributed systems and software architecture
 
 ---
 
-## AgroSafe
-Blockchain-powered agricultural infrastructure project focused on trust, verification, and transparent coordination systems.
+# 💻 Tech Stack
 
-Worked on:
-- smart contract logic
-- frontend integrations
-- decentralized workflow design
+### Languages
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 
-## GoodDollar Savings Widget Integration
-Contributed to savings/staking integration workflows and UX debugging within a DeFi environment.
+### Frontend
 
-Worked on:
-- wallet interaction flows
-- staking UX
-- debugging transaction handling
-- frontend integration fixes
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3)
 
----
+### Backend
 
-## Fundslip
-An on-chain financial attestation primitive designed to create verifiable proofs of payment, income, and financial activity.
+- REST APIs
+- Node.js
+- Express
+- Authentication
+- Database integrations
 
-Focus areas:
-- smart contract architecture
-- attestations
-- identity-linked verification
-- composable financial proofs
+### Blockchain
 
-Tech:
-`Solidity` `Foundry` `React` `TypeScript`
-
----
-
-## Stellar Payment Agent Exploration
-Building agent-based payment infrastructure integrating:
-- Stellar
-- CoinFello API
-- conversational payment workflows
-
-Tech:
-`React` `TypeScript` `Stellar SDK`
-
----
-
-# 🌍 Open Source Contributions
-
-I actively contribute to open-source projects through:
-- documentation improvements
-- issue resolution
-- developer onboarding
-- GitHub Actions/CI setup
-- protocol integration work
-- frontend and smart contract fixes
-- architecture discussions
-- community standards/documentation
-
-I enjoy working inside large codebases, understanding system design decisions, and contributing incrementally to improve developer experience and protocol usability.
-
----
-
-# 🧠 Technical Stack
-
-## Smart Contracts & Protocols
 - Solidity
 - Foundry
 - Hardhat
-- Ethers.js
-- Viem
 - Wagmi
+- Viem
+- Ethers.js
+- Stellar SDK
 
-## Languages
-- TypeScript
-- JavaScript
-- Rust (learning)
-- Python
+### Tools
 
-## Frontend & App Layer
-- React
-- Vite
-- TailwindCSS
-- REST APIs
-
-## Tooling & Workflow
-- Git & GitHub
+- Git
+- GitHub
 - GitHub Actions
-- CI/CD workflows
-- Testing & debugging
-- Technical documentation
+- CI/CD
+- Docker
+- Postman
+- Figma
 
 ---
 
-# 🔬 Areas of Interest
+# 🌟 Featured Projects
 
-- Ethereum protocol research
-- Execution clients
-- Statelessness & scaling
-- Account abstraction
-- EVM optimization
-- Zero-knowledge systems
-- DeFi infrastructure
-- On-chain identity
-- Cryptoeconomic coordination
+## 🎬 Movie Discovery App
+
+A responsive movie discovery platform built with React and external APIs.
+
+**Highlights**
+
+- API integration
+- Search & filtering
+- Responsive UI
+- State management
+
+---
+
+## 🎟️ Event Ticketing Platform
+
+Modern event management interface with responsive design and reusable components.
+
+---
+
+## 🌾 AgroVest
+
+Agricultural platform focused on improving transparency and accessibility through modern web technologies.
+
+Worked on:
+
+- Frontend implementation
+- Backend services
+- Rust backend exploration
+
+---
+
+## 💰 Fundslip
+
+A decentralized financial attestation platform for verifiable proofs of payment and income.
+
+**Tech**
+
+- Solidity
+- React
+- TypeScript
+- Foundry
+
+---
+
+## ⚙️ Mini EVM
+
+A simplified Ethereum Virtual Machine implementation built in Rust to better understand opcode execution, bytecode interpretation, and VM architecture.
+
+---
+
+## ⭐ Open Source Contributions
+
+I've contributed to several open-source projects across frontend, backend, and blockchain ecosystems.
+
+Some recent work includes:
+
+- Merchant dashboard improvements
+- Wallet connection flows
+- API integrations
+- React frontend features
+- TypeScript refactoring
+- Bug fixes
+- CI/CD improvements
+- Husky & lint-staged setup
+- Documentation
+- Code reviews
+- Performance improvements
+
+I enjoy understanding existing codebases, collaborating through pull requests, and shipping incremental improvements that improve developer experience and product quality.
+
+---
+
+# 📚 Currently Learning
+
+- Rust
+- Software Architecture
+- Distributed Systems
+- Design Patterns
+- Backend Engineering
+- System Design
+
+---
+
+# 🎯 Interests
+
+- Software Engineering
+- Frontend Development
+- Backend Development
+- Open Source
+- Rust
+- Developer Experience
+- Distributed Systems
+- Blockchain Infrastructure
+- Web Performance
 
 ---
 
 # 📈 GitHub Stats
 
-![Oluwatomilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluwatomilola&show_icons=true&theme=radical)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatomilola&layout=compact&theme=radical)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oluwatomilola&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatomilola&layout=compact&theme=tokyonight"/>
 
-# 📫 Connect
-
-- GitHub: https://github.com/Oluwatomilola
-- LinkedIn: https://www.linkedin.com/in/oluwatomilola-ayeni-553368127
-- Email: tomilolaayeni97@gmail.com
+</p>
 
 ---
 
-> I’m focused on becoming a strong protocol and infrastructure engineer through consistent open-source contribution, systems-level thinking, and building real decentralized systems.
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Oluwatomilola&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oluwatomilola&theme=tokyo-night)](https://github.com/Oluwatomilola)
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/oluwatomilola-ayeni-553368127
+- 📧 Email: tomilolaayeni97@gmail.com
+
+Always open to collaborating on interesting projects, open-source contributions, and software engineering opportunities.
+
+---
+
+> *"Building software that is reliable, maintainable, and meaningful—one commit at a time."*
