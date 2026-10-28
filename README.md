@@ -16,7 +16,7 @@
 </a>
 </div>
 
-⸻
+
 
 💜 About Me
 
