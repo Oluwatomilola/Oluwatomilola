@@ -1,208 +1,100 @@
-# Hi there 👋 I'm Oluwatomilola Ayeni
+Hi, I’m Oluwatomilola Ayeni 👋
 
-### Software Engineer • Frontend Developer • Open Source Contributor
+Web3 Developer | Solidity & EVM | Open-Source Contributor
 
-I build modern web applications with a focus on performance, usability, and maintainability.
+I build software at the intersection of blockchain, financial systems, and developer tooling.
 
-My experience spans frontend engineering, backend services, and blockchain development. I enjoy building products, contributing to open source, and solving real engineering problems—from responsive user interfaces to distributed systems and developer tooling.
+My work spans Solidity smart contracts, Web3 applications, frontend engineering, and open-source contributions. I’m particularly interested in how smart contracts enforce rules, how the EVM executes code, and how we can build more secure and verifiable financial systems.
 
-Recently, I've been contributing to projects across the JavaScript/TypeScript ecosystem while expanding into systems programming with Rust.
+I’m also exploring Rust and low-level execution through a mini-EVM project as I work toward deeper protocol engineering.
 
----
+* 🔗 GitHub: @Oluwatomilola
+* 💼 LinkedIn: Oluwatomilola Ayeni
+* 📧 Email: tomilolaayeni97@gmail.com
 
-## 🚀 What I'm Working On
+⸻
 
-- Building modern React & TypeScript applications
-- Designing scalable frontend architectures
-- Exploring Rust for systems programming
-- Building backend services and APIs
-- Contributing to open-source software
-- Learning distributed systems and software architecture
+🛠️ Technologies
 
----
+Smart Contracts & Web3
 
-# 💻 Tech Stack
+Languages
 
-### Languages
+Application Development
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+⸻
 
-### Frontend
+🚀 Featured Projects
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3)
+💳 Payslip
 
-### Backend
+Financial computation and document generation
 
-- REST APIs
-- Node.js
-- Express
-- Authentication
-- Database integrations
+A financial computation engine focused on deterministic salary calculations, structured payroll data, and auditable financial outputs. The project explores the importance of correctness, consistency, and traceability in financial software.
 
-### Blockchain
+Focus: Financial logic, input validation, data integrity, and auditability.
 
-- Solidity
-- Foundry
-- Hardhat
-- Wagmi
-- Viem
-- Ethers.js
-- Stellar SDK
+Explore Payslip →
 
-### Tools
+🌾 AgroSafe
 
-- Git
-- GitHub
-- GitHub Actions
-- CI/CD
-- Docker
-- Postman
-- Figma
+Agricultural transparency and food safety
 
----
+A blockchain-oriented project focused on agricultural supply-chain transparency and food safety, combining smart-contract development with a web application.
 
-# 🌟 Featured Projects
+Focus: Solidity, Foundry, and Web3 application development.
 
-## 🎬 Movie Discovery App
+Explore AgroSafe →
 
-A responsive movie discovery platform built with React and external APIs.
+⚙️ Mini EVM
 
-**Highlights**
+Exploring Ethereum execution with Rust
 
-- API integration
-- Search & filtering
-- Responsive UI
-- State management
+A learning project exploring the architecture of a simplified Ethereum Virtual Machine and the concepts behind bytecode interpretation and opcode execution.
 
----
+Focus: Rust, virtual machines, and EVM internals.
 
-## 🎟️ Event Ticketing Platform
+Explore Mini EVM →
 
-Modern event management interface with responsive design and reusable components.
+🧩 30 Days of Solidity
 
----
+Web3 Compass — Certified Builder
 
-## 🌾 AgroVest
+Completed the 30 Days of Solidity challenge on 1 April 2026, with nine real-world application contracts recorded on the completion certificate.
 
-Agricultural platform focused on improving transparency and accessibility through modern web technologies.
+Focus: Solidity practice, smart-contract implementation, and consistent hands-on learning.
 
-Worked on:
+Explore my submissions →
 
-- Frontend implementation
-- Backend services
-- Rust backend exploration
+⸻
 
----
+🌍 Open Source & Community
 
-## 💰 Fundslip
+I enjoy contributing to existing codebases, collaborating through GitHub issues and pull requests, and learning from other developers.
 
-A decentralized financial attestation platform for verifiable proofs of payment and income.
+My ecosystem experience includes:
 
-**Tech**
+* GoodDollar: Open-source contributions to Web3 product features.
+* Stellar: Participation in ecosystem and developer-focused initiatives.
+* Web3Bridge: Solidity, smart-contract development, and decentralized application training.
+* SheFi: Continued learning across DeFi and blockchain ecosystems.
 
-- Solidity
-- React
-- TypeScript
-- Foundry
+⸻
 
----
+📚 Currently Exploring
 
-## ⚙️ Mini EVM
+* EVM execution and smart-contract internals
+* Solidity testing and secure contract design
+* Rust and virtual-machine implementation
+* Signature verification and verifiable financial systems
+* Blockchain protocol engineering
 
-A simplified Ethereum Virtual Machine implementation built in Rust to better understand opcode execution, bytecode interpretation, and VM architecture.
+⸻
 
----
+🤝 Let’s Connect
 
-## ⭐ Open Source Contributions
+I’m interested in collaborating on meaningful Web3 projects, contributing to open source, and learning from engineers building secure blockchain infrastructure.
 
-I've contributed to several open-source projects across frontend, backend, and blockchain ecosystems.
+If you’re working on smart contracts, EVM tooling, or protocol engineering, let’s connect.
 
-Some recent work includes:
-
-- Merchant dashboard improvements
-- Wallet connection flows
-- API integrations
-- React frontend features
-- TypeScript refactoring
-- Bug fixes
-- CI/CD improvements
-- Husky & lint-staged setup
-- Documentation
-- Code reviews
-- Performance improvements
-
-I enjoy understanding existing codebases, collaborating through pull requests, and shipping incremental improvements that improve developer experience and product quality.
-
----
-
-# 📚 Currently Learning
-
-- Rust
-- Software Architecture
-- Distributed Systems
-- Design Patterns
-- Backend Engineering
-- System Design
-
----
-
-# 🎯 Interests
-
-- Software Engineering
-- Frontend Development
-- Backend Development
-- Open Source
-- Rust
-- Developer Experience
-- Distributed Systems
-- Blockchain Infrastructure
-- Web Performance
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oluwatomilola&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatomilola&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Oluwatomilola&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oluwatomilola&theme=tokyo-night)](https://github.com/Oluwatomilola)
-
----
-
-# 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/oluwatomilola-ayeni-553368127
-- 📧 Email: tomilolaayeni97@gmail.com
-
-Always open to collaborating on interesting projects, open-source contributions, and software engineering opportunities.
-
----
-
-> *"Building software that is reliable, maintainable, and meaningful—one commit at a time."*
+LinkedIn · GitHub · Email
