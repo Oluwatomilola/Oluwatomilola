@@ -151,9 +151,9 @@ I value collaborative learning and contributing to projects beyond my own reposi
 📊 GitHub Analytics
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Oluwatomilola&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatomilola&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oluwatomilola&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Oluwatomilola&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatomilola&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oluwatomilola&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 </div>
 
 🐍 Contribution Journey
